@@ -1,0 +1,44 @@
+commit d5b42974ae5cece5073c77c5e22bad2ffb1d91b9
+Author: John Rodocker <johnkrodocker@gmail.com>
+Date:   Wed Feb 19 19:25:08 2025 -0700
+
+    John Rodocker: Changed color of cat to red, color of eyes to yellow (because the cat is evil)
+
+commit 7ddaa3e1e5c7f07c904bf51e301017f2fe263c88
+Merge: 47575a6 f37b684
+Author: Alex McDonald <alex_mcdonald@mines.edu>
+Date:   Wed Feb 19 19:17:30 2025 -0700
+
+    Merge branch 'main' of https://github.com/jkrodocker/C11A1-DrawPlay
+    Alex McDonald changed text on local branch, at the same time John Rodocker chang
+    ed eye height and width on his local branch.
+
+commit 47575a6a2d7dd618f447cf58d3dfb0a6ccc06433
+Author: Alex McDonald <alex_mcdonald@mines.edu>
+Date:   Wed Feb 19 19:17:10 2025 -0700
+
+    Alex McDonald: changed text color to red and added exclamation point
+
+commit f37b684f07d3d150b82907fe564ace694abc2d74
+Author: John Rodocker <johnkrodocker@gmail.com>
+Date:   Wed Feb 19 19:16:53 2025 -0700
+
+    John Rodocker: Changed Cat.EYE_HEIGHT to 30 and Cat.EYE_WIDTH to 5
+
+commit 9165d1a15044e2dbf93ea839aca1b3f16455143b
+Author: Alex McDonald <alex_mcdonald@mines.edu>
+Date:   Wed Feb 19 14:49:14 2025 -0700
+
+    Alex McDonald: made cat head gray, and cat eyes blue in Cat.java
+
+commit cb4c7e3218989181337d43bf5b65fa8e3489dcfa
+Author: Alex McDonald <alex_mcdonald@mines.edu>
+Date:   Wed Feb 19 14:38:27 2025 -0700
+
+    Alex McDonald: added .gitignore and updated paintComponent() to draw the cat at (100, 100) instead of (50, 50)
+
+commit 0dfbf5aeea310626092bbd25ff7c47ed62708919
+Author: John Rodocker <johnkrodocker@gmail.com>
+Date:   Wed Feb 19 14:26:13 2025 -0700
+
+    Initial commit for project starter code
