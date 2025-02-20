@@ -1,3 +1,15 @@
+commit 8727fad78918e2e045dfe1535df1137233b71760
+Author: John Rodocker <johnkrodocker@gmail.com>
+Date:   Wed Feb 19 19:31:51 2025 -0700
+
+    John Rodocker: Changed the mouth to be black, changed the position of the mouth to start about 80% of the way down the face
+
+commit a41cd373ab5f80ae8a5465bf1c2886e16f1cff94
+Author: Alex McDonald <alex_mcdonald@mines.edu>
+Date:   Wed Feb 19 19:27:28 2025 -0700
+
+    Alex McDonald: exported git log to gitlog.txt
+
 commit d5b42974ae5cece5073c77c5e22bad2ffb1d91b9
 Author: John Rodocker <johnkrodocker@gmail.com>
 Date:   Wed Feb 19 19:25:08 2025 -0700
